@@ -27,6 +27,7 @@ with conn.cursor() as c:
 
 
 # indexes generation
+
 url = make_url(connection_string)
 vector_store = PGVectorStore.from_params(
     database="vector_db_mapfre_g1",

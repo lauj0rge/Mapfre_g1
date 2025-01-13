@@ -60,9 +60,7 @@ Este proyecto tiene como objetivo desarrollar un chatbot basado en inteligencia 
 Mapfre_g1/
 ├── datasets/              # Documentos utilizados para entrenar el chatbot
 ├── index_creator.py       # Script principal para crear el índice
-├── create_db.py           # Script para inicializar la base de datos
 ├── api_key.py             # Archivo para configurar la clave API (opcional)
-├── requirements.txt       # Dependencias del proyecto
 ├── README.md              # Documentación del proyecto
 ├── env/                   # Variables de entorno (opcional)
 ```
@@ -72,7 +70,8 @@ Mapfre_g1/
 
 ### Contribución
 
-Laura Jorge	
-Santiago Esbert	
-Pablo Villamaña Río	
+- Laura Jorge	
+- Santiago Esbert	
+- Pablo Villamaña Río	
+- Tutor: Maria Irigaray
 
